@@ -15,7 +15,7 @@ I'm a 1st-year PhD student in UCR where I am fortunately advised by Prof. [Yue D
 My research interest lies in Natural Language Processing (NLP), specifically conditional text generation, such as summarization and machine translation. Large language models (LLMs) have made significant advancements in conditional text generation, but problems like hallucination and security still exist. Besides these, I also have a strong interest in reinforcement learning (RL). Integrating advanced RL algorithms with NLP is a very interesting and challenging topic, and I look forward to combining them with conditional text generation through more effective and elegant methods.
 
 ## News
-+ [10/2023] Our tutorial [Vulnerabilities of Large Language Models to Adversarial Attacks](https://llm-vulnerability.github.io/) was accept to ACL2024.
++ [10/2023] Our tutorial on [Vulnerabilities of Large Language Models to Adversarial Attacks](https://llm-vulnerability.github.io/) was accepted to ACL2024.
 
 + [09/2023] I have successfully started my academic journey at UC Riverside. :)
 
