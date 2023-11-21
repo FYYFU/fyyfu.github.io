@@ -24,7 +24,7 @@ My research interest lies in Natural Language Processing (NLP), specifically con
 ## Publications
 
 + **Yu Fu**, Deyi Xiong, Yue Dong (2023). [Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy](https://arxiv.org/abs/2307.13808) *(arxiv preprint).*
-+ **Yu Fu**, Deyi Xiong, Yue Dong (2023). [Inverse Reinforcement Learning for Text Summarization](https://arxiv.org/abs/2212.09917) *(arxiv preprint).*
++ **Yu Fu**, Deyi Xiong, Yue Dong (2023). [Inverse Reinforcement Learning for Text Summarization](https://arxiv.org/abs/2212.09917) *(findings of EMNLP2023).*
 + Jie He, **Yu Fu** (2023) [MetaXCR: Reinforcement-Based Meta-Transfer Learning for Cross-Lingual Commonsense Reasoning](https://proceedings.mlr.press/v203/he23a/he23a.pdf) *(Transfer Learning for Natural Language Processing Workshop).*
 + Fan Deng, Zhenhua Yu, Wenjing Liu, Xiaoqing Luo, **Yu Fu**, Ben Qiang, Chaoyang Xu, Zhiwu Li (2021). ([An efficient policy evaluation engine for XACML policy management](https://www.sciencedirect.com/science/article/pii/S0020025520308148)) *(Information Science).*
 
