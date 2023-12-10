@@ -15,6 +15,8 @@ I'm a 1st-year PhD student in UCR where I am fortunately advised by Prof. [Yue D
 My research interest lies in Natural Language Processing (NLP), specifically conditional text generation, such as summarization and machine translation. Large language models (LLMs) have made significant advancements in conditional text generation, but problems like hallucination and security still exist. Besides these, I also have a strong interest in reinforcement learning (RL). Integrating advanced RL algorithms with NLP is a very interesting and challenging topic, and I look forward to combining them with conditional text generation through more effective and elegant methods.
 
 ## News
++ [12/2023] Our paper [Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy](https://arxiv.org/abs/2307.13808) was accepted to AAAI2024.
+
 + [10/2023] Our paper [Inverse Reinforcement Learning for Text Summarization](https://arxiv.org/abs/2212.09917) was accepted to the findings of EMNLP2023. !v!
 
 + [10/2023] Our tutorial on [Vulnerabilities of Large Language Models to Adversarial Attacks](https://llm-vulnerability.github.io/) was accepted to ACL2024.
@@ -23,7 +25,7 @@ My research interest lies in Natural Language Processing (NLP), specifically con
 
 ## Publications
 
-+ **Yu Fu**, Deyi Xiong, Yue Dong (2023). [Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy](https://arxiv.org/abs/2307.13808) *(arxiv preprint).*
++ **Yu Fu**, Deyi Xiong, Yue Dong (2023). [Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy](https://arxiv.org/abs/2307.13808) *(AAAI 2024).*
 + **Yu Fu**, Deyi Xiong, Yue Dong (2023). [Inverse Reinforcement Learning for Text Summarization](https://arxiv.org/abs/2212.09917) *(findings of EMNLP2023).*
 + Jie He, **Yu Fu** (2023) [MetaXCR: Reinforcement-Based Meta-Transfer Learning for Cross-Lingual Commonsense Reasoning](https://proceedings.mlr.press/v203/he23a/he23a.pdf) *(Transfer Learning for Natural Language Processing Workshop).*
 + Fan Deng, Zhenhua Yu, Wenjing Liu, Xiaoqing Luo, **Yu Fu**, Ben Qiang, Chaoyang Xu, Zhiwu Li (2021). ([An efficient policy evaluation engine for XACML policy management](https://www.sciencedirect.com/science/article/pii/S0020025520308148)) *(Information Science).*
