@@ -16,7 +16,7 @@ My research interest lies in Natural Language Processing (NLP), specifically con
 
 ## News
 
-+ [05/2024] Our paper [Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack](https://arxiv.org/abs/2312.06924) was accepted to ACL2024.
++ [05/2024] Our paper [Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack](https://arxiv.org/abs/2312.06924) was accepted to ACL2024. [Demo](https://fyyfu.github.io/SafetyAlignNLP/)
 
 + [05/2024] Our paper *Cross-Task Defense: Instruction-Tuning LLMs for Content Safety* was accepted to NAACL2024 TrustNLP workshop.
 
