@@ -18,7 +18,7 @@ My research interest lies in Natural Language Processing (NLP), specifically con
 
 + [05/2024] Our paper [Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack](https://arxiv.org/abs/2312.06924) was accepted to ACL2024. [Demo](https://fyyfu.github.io/SafetyAlignNLP/)
 
-+ [05/2024] Our paper *Cross-Task Defense: Instruction-Tuning LLMs for Content Safety* was accepted to NAACL2024 TrustNLP workshop.
++ [05/2024] Our paper [Cross-Task Defense: Instruction-Tuning LLMs for Content Safety](https://arxiv.org/abs/2405.15202) was accepted to NAACL2024 TrustNLP workshop.
 
 + [02/2024] Our paper [Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack](https://arxiv.org/abs/2312.06924) now available on Arxiv. [Demo](https://fyyfu.github.io/SafetyAlignNLP/)
 + [12/2023] Our paper [Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy](https://arxiv.org/abs/2307.13808) was accepted to AAAI2024.
@@ -33,7 +33,7 @@ My research interest lies in Natural Language Processing (NLP), specifically con
 
 + **Yu Fu**, Yufei Li, Wen Xiao, Cong Liu, Yue Dong (2024). [Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack](https://arxiv.org/abs/2312.06924) *(ACL2024).*
 
-+ **Yu Fu**, Wen Xiao, Jia Chen, Jiachen Li, Evangelos Papalexakis, Aichi Chien and Yue Dong (2024).*Cross-Task Defense: Instruction-Tuning LLMs for Content Safety* *(TrustNLP: Fourth Workshop on Trustworthy Natural Language Processing NAACL2024).*
++ **Yu Fu**, Wen Xiao, Jia Chen, Jiachen Li, Evangelos Papalexakis, Aichi Chien and Yue Dong (2024).[Cross-Task Defense: Instruction-Tuning LLMs for Content Safety](https://arxiv.org/abs/2405.15202) *(TrustNLP: Fourth Workshop on Trustworthy Natural Language Processing NAACL2024).*
 
 + **Yu Fu**, Deyi Xiong, Yue Dong (2023). [Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy](https://arxiv.org/abs/2307.13808) *(AAAI 2024).*
 + **Yu Fu**, Deyi Xiong, Yue Dong (2023). [Inverse Reinforcement Learning for Text Summarization](https://arxiv.org/abs/2212.09917) *(findings of EMNLP2023).*
