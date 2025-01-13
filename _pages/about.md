@@ -16,6 +16,7 @@ My research interest lies in Natural Language Processing (NLP), specifically con
 
 ## News
 
++ 
 + [10/2024] Completed my internship at Microsoft and really appreciated the guidance from my leaders there. Our paper [Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning](https://arxiv.org/abs/2410.19258) now available on Arxiv.
 
 + [05/2024] Our paper [Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack](https://arxiv.org/abs/2312.06924) was accepted to ACL2024. [Demo](https://fyyfu.github.io/SafetyAlignNLP/)
