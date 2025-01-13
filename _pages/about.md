@@ -15,8 +15,7 @@ I'm a 2nd-year PhD student in UCR where I am fortunately advised by Prof. [Yue D
 My research interest lies in Natural Language Processing (NLP), specifically conditional text generation, such as summarization and machine translation. Large language models (LLMs) have made significant advancements in conditional text generation, but problems like hallucination and security still exist. Besides these, I also have a strong interest in reinforcement learning (RL). Integrating advanced RL algorithms with NLP is a very interesting and challenging topic, and I look forward to combining them with conditional text generation through more effective and elegant methods.
 
 ## News
-
-+ 
+ 
 + [10/2024] Completed my internship at Microsoft and really appreciated the guidance from my leaders there. Our paper [Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning](https://arxiv.org/abs/2410.19258) now available on Arxiv.
 
 + [05/2024] Our paper [Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack](https://arxiv.org/abs/2312.06924) was accepted to ACL2024. [Demo](https://fyyfu.github.io/SafetyAlignNLP/)
