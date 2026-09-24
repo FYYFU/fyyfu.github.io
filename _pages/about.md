@@ -10,11 +10,17 @@ redirect_from:
 
 ## About me
 
-I'm a 3rd-year PhD student in UCR where I am fortunately advised by Prof. [Yue Dong](https://yuedong.netlify.app/). Prior to that, I received my M.Sc. from [Tianjin University](http://www.tju.edu.cn/) (advised by Prof. [Deyi Xiong](https://dyxiong.github.io/)), and my B.S. from [Xidian University](https://www.xidian.edu.cn/).
+I'm a fourth-year Ph.D. student in Computer Science at the University of California, Riverside, advised by Prof. [Yue Dong](https://yuedong.netlify.app/).
 
-My research interest lies in Natural Language Processing (NLP), specifically conditional text generation, such as summarization and machine translation. Large language models (LLMs) have made significant advancements in conditional text generation, but problems like hallucination and security still exist. Besides these, I also have a strong interest in reinforcement learning (RL).
+My research focuses on building safe, reliable, and efficient large language models (LLMs). My work spans safety alignment, long-context understanding, and efficient inference.
+
+Previously, I received my M.Sc. from [Tianjin University](http://www.tju.edu.cn/), advised by Prof. [Deyi Xiong](https://dyxiong.github.io/), and my B.S. from [Xidian University](https://www.xidian.edu.cn/).
 
 ## News
+
++ [09/2026] Our paper [Do Reasoning LLMs Refuse What They Infer in Long Contexts?](https://arxiv.org/abs/2602.08874) was accepted to NeurIPS 2026.
+
++ [04/2026] Our paper [Anchoring the Cache: Mitigating Contextual Hallucination in KV-Compressed Long-Context Summarization](https://aclanthology.org/2026.acl-long.1542.pdf) was accepted to ACL 2026.
 
 + [11/2025] Our paper [Harnessing the Unseen: The Hidden Influence of Intrinsic Knowledge in Long-Context Language Models](https://arxiv.org/abs/2504.08202) was accepted to the AAAI2026.
 
@@ -36,6 +42,10 @@ My research interest lies in Natural Language Processing (NLP), specifically con
 + [09/2023] I have successfully started my academic journey at UC Riverside. :)
 
 ## Publications
++ **Yu Fu**, Haz Sameen Shahgir, Zhipeng Wei, Huanli Gong, N. Benjamin Erichson, Yue Dong (2026). [Do Reasoning LLMs Refuse What They Infer in Long Contexts?](https://arxiv.org/abs/2602.08874) *(NeurIPS 2026).*
+
++ **Yu Fu**, Chen Luo, Josef Valvoda, Xin Zhang, Xuejing Lei, Xiao Pan, Hui Liu, Yue Dong (2026). [Anchoring the Cache: Mitigating Contextual Hallucination in KV-Compressed Long-Context Summarization](https://aclanthology.org/2026.acl-long.1542.pdf) *(ACL 2026).*
+
 + **Yu Fu**, Haz Sameen Shahgir, Hui Liu, Xianfeng Tang, Qi He, Yue Dong. [Harnessing the Unseen: The Hidden Influence of Intrinsic Knowledge in Long-Context Language Models](https://arxiv.org/abs/2504.08202) *(AAAI2026).*
 
 + **Yu Fu**, Zefan Cai, AbedelKadir Asi, Wayne Xiong, Yue Dong, Wen Xiao (2025). [Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning](https://openreview.net/forum?id=FJFVmeXusW) *(ICLR2025).*
